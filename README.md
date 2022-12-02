@@ -1,9 +1,14 @@
-### Hi there 👋
 
-<!--
-**Joaquinelizondo/Joaquinelizondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <h1 align="center">Hi there 👋, I am Joaquin.</h1>
+    <p align="center">My name is Joaquin Elizondo, I am a Data Analyst and Economist passionate about working with Data and learning more about programme languages</p>
 
-Here are some ideas to get you started:
+</div>
+
+
+
+### About Me
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
