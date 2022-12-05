@@ -13,5 +13,5 @@
 - 🔭 I’m currently working as a Data and BI Analyst.
 - 🌱 I’m currently learning Javascripto and React.
 - 💬 Ask me about Python, SQL, Tableau and Power BI.
-- 📫 How to reach me: +598 99213300
+- 📫 How to reach me: juacaelizondo@gmail.com
 
