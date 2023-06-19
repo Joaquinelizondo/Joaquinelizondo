@@ -19,5 +19,5 @@
 
 ### Languajes and Tools :
 
-<img src=https://www.flaticon.es/iconos-gratis/html-5 title=html5>
+<img href="https://icons8.com/icon/20909/html-5">HTML5</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
