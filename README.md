@@ -7,7 +7,7 @@
 
 
 
-### About Me
+### About Me :
 
 
 - 🔭 I’m currently working as a Data and BI Analyst.
