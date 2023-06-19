@@ -17,6 +17,12 @@
 
 ---
 
+###Connect with me :
+
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" href="https://www.linkedin.com/in/joaquin-elizondo-b155083a/" alt="linkedin"/>
+
+---
+
 ### Languages and Tools :
 <div class="iconos">
     
