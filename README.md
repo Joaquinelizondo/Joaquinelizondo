@@ -15,3 +15,7 @@
 - 💬 Ask me about Python, SQL, Tableau, HTML, CSS, React and Javascript.
 - 📫 How to reach me: juacaelizondo@gmail.com
 
+---
+
+### Languajes and Tools :
+
