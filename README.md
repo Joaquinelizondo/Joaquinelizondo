@@ -19,6 +19,8 @@
 
 ### Languages and Tools :
 <div class="iconos">
-<img src="https://github.com/Joaquinelizondo/Joaquinelizondo/assets/111257458/f8050de3-e5ca-4ae4-960e-3c6e1c7232d5")></div>
+<img src="https://github.com/Joaquinelizondo/Joaquinelizondo/assets/111257458/f8050de3-e5ca-4ae4-960e-3c6e1c7232d5")>
 
-<img src="https://github.com/Joaquinelizondo/Joaquinelizondo/assets/111257458/5ba7bc84-ff03-4ed1-b310-c9138d8c5db8")></img>
+<img src="https://github.com/Joaquinelizondo/Joaquinelizondo/assets/111257458/5ba7bc84-ff03-4ed1-b310-c9138d8c5db8")>
+
+</div>
