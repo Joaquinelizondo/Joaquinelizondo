@@ -19,5 +19,5 @@
 
 ### Languajes and Tools :
 
-<img href="https://icons8.com/icon/20909/html-5">HTML5</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<img src="https://icons8.com/icon/20909/html-5">
 
