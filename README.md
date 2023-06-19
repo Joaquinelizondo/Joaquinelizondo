@@ -21,6 +21,6 @@
 <div class="iconos">
 <img src="https://github.com/Joaquinelizondo/Joaquinelizondo/assets/111257458/f8050de3-e5ca-4ae4-960e-3c6e1c7232d5")>
 
-<img src="https://github.com/Joaquinelizondo/Joaquinelizondo/assets/111257458/5ba7bc84-ff03-4ed1-b310-c9138d8c5db8")>
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
 </div>
