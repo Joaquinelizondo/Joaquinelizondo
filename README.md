@@ -20,7 +20,7 @@
 ### Languages and Tools :
 <div class="iconos">
     
-[<img src="https://github.com/Joaquinelizondo/Joaquinelizondo/assets/111257458/f8050de3-e5ca-4ae4-960e-3c6e1c7232d5")>](https://iconos8.es/icon/20909/html-5)
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
