@@ -19,7 +19,7 @@
 
 ### Languages and Tools :
 
-<img src="![image](https://github.com/Joaquinelizondo/Joaquinelizondo/assets/111257458/8c373783-45bb-4c4a-b293-4d96486c6e9f)">
+<img href="![image](https://github.com/Joaquinelizondo/Joaquinelizondo/assets/111257458/8c373783-45bb-4c4a-b293-4d96486c6e9f)">
 
 
 
