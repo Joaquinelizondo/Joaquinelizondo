@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working as a Data and BI Analyst.
-- 🌱 I’m currently learning Javascript and React.
-- 💬 Ask me about Python, SQL, Tableau and Power BI.
+- 🌱 I’m currently learning Node.js.
+- 💬 Ask me about Python, SQL, Tableau, HTML, CSS, React and Javascript.
 - 📫 How to reach me: juacaelizondo@gmail.com
 
