@@ -1,8 +1,7 @@
 
 <div>
     <h1 align="center">Hi there 👋, I am Joaquin.</h1>
-    <p align="center">My name is Joaquin Elizondo, I am a Data Analyst passionate about working with Data and learning more about programming languages.
-        Currently attending a Full Stack Developer Bootcamp </p>
+    <p align="center">My name is Joaquin Elizondo, I am a Full Stack Developer and Data Analyst passionate about working in IT sector and learning more about new technologies and languages.</p>
 
 
 
@@ -10,9 +9,10 @@
 ### About Me :
 
 
-- 🔭 I’m currently working as a Data and BI Analyst.
-- 🌱 I’m currently learning Node.js.
-- 💬 Ask me about Python, SQL, Tableau, HTML, CSS, React and Javascript.
+- 🔭 Full Stack Developer and Data and BI Analyst.
+- 💬 Ask me about HTML, CSS, React and Javascript and React as a Front-End Developer.
+- 💬 Ask me about Python, SQL, Postgre(PgAdmin), Node.js and Express as a Back-End Developer.
+- 🌱 I’m currently learning Angular.
 - 📫 How to reach me: juacaelizondo@gmail.com
 
 ---
