@@ -9,7 +9,8 @@
 ### About Me :
 
 
-- 🔭 Full Stack Developer and Data and BI Analyst.
+- 🔭 Data Scientist and BI Analyst.
+- 🔭 Full Stack Developer.
 - 💬 Ask me about HTML, CSS, React and Javascript and React as a Front-End Developer.
 - 💬 Ask me about Python, SQL, Postgre(PgAdmin), Node.js and Express as a Back-End Developer.
 - 🌱 I’m currently learning Angular.
