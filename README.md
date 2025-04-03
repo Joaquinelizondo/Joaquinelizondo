@@ -8,19 +8,16 @@
 
 ---
 
-### 🧠 About Me
-
-- 🔬 Data Scientist & BI Analyst, with experience in advanced analytics and machine learning.
-- 🧑‍💻 Full Stack Developer: combining clean front-end interfaces with robust back-end systems.
-- 💬 Ask me about:  
-  - **Front-End**: HTML, CSS, JavaScript, React  
-  - **Back-End**: Python, SQL, PostgreSQL (PgAdmin), Node.js, Express  
-  - **Data & AI**: Machine Learning models, Deep Learning, Computer Vision  
-  - **Cloud**: Microsoft Azure, Amazon Web Services (AWS)
-- 🌱 Currently learning: **Angular** to expand my frontend toolkit.
-- 📫 Reach me at: **juacaelizondo@gmail.com**
-
----
+🧠 About Me
+🔬 Data Scientist & BI Analyst, experienced in advanced analytics and machine learning.
+🧑‍💻 Full Stack Developer, building clean front-end interfaces and robust back-end systems.
+💬 Ask me about:
+Front-End: HTML, CSS, JavaScript, React
+Back-End: Python, SQL, PostgreSQL (PgAdmin), Node.js, Express
+Data & AI: Machine Learning models, Deep Learning, Computer Vision
+Cloud: Microsoft Azure, Amazon Web Services (AWS)
+🌱 Currently learning: Generative AI to enhance my analytical and creative capabilities.
+📫 Reach me at: juacaelizondo@gmail.com
 
 ### 🌐 Connect with me
 
