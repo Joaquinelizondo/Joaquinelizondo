@@ -5,7 +5,7 @@
 
   <h1>👋 Hi there, I'm Joaquin Elizondo</h1>
 
-  <p>I am a <strong>Data Scientist</strong> and <strong>Full Stack Developer</strong> passionate about technology, data, and continuous learning in the IT world.</p>
+  <p>I am a <strong>Data Scientist</strong> and <strong> BI Analyst</strong> passionate about technology, data, and continuous learning in the IT world.</p>
 
 </div>
 
